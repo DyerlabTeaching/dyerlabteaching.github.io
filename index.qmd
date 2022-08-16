@@ -4,6 +4,7 @@ author: "Rodney J. Dyer, PhD"
 format: 
   html:
     standalone: true
+    self-contained: true
 ---
 
 
