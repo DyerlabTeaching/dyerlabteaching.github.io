@@ -16,47 +16,48 @@ format:
 
 
 
-> These are the lectures for the ENVS 543 Environmental Data Literacy course I am teaching this semester.  Individual lecture components will be added as the term progresses and be reset with the lecture content for the Spring 2023 semester in Jaunary.
-
-## Lectures for Environmental Data Literacy
-
-The class consists of the following main sections.
-
-### Logistics
-
-- ENVS 543 Welcome & Logistics
-- Git & Github
-- Markdown 
-- Data Types 
-- Data Containers
-- Tidyverse
+> This github account houses all of the repositories I have created for teaching resources.  Where possible, I have attempted to break apart the components of my instruction into the least common denominators.  These can individually serve as building-blocks of instruction for a wide range of coureses as well as sources of quick instruction for individuals needing to relearn specific components.
 
 
-### Univariate Data on One Variable
+##  Syllabi
 
-- Graphics that DON'T suck  
-- Confidence on a Mean
-- Biniomial Inferences ]
-
-
-### Inferences on More than One Variable
-
-- Categorical ~ f(Categorical)  
-- Continuous ~ f(Categorical)  
-- Continuous ~ f(Continuous)  
-- Categorical ~ f(Continuous)  
+- [ENVS 543: Environmental Data Literacy](https://github.com/dyerlabteaching/ENVS543)
+- [2 day Data Literacy Workshop]()
+- [Landscape Genetics]()
 
 
-### Spatial Data
+## Logistics Lectures
 
-- Points, Lines, & Polygons  
-- Raster Data   
-- Cartography  
-- Census Data  
-- Raytracing  
+- [Welcome & Logistics](https://dyerlabteaching.github.io/Welcome/slides.html#/title-slide)  
+- [Github]()  
+- [Markdown & Quarto]()  
+
+## R Grammar Lectures
+
+- [Data Types]()
+- [Data Containers]()
+- [GGPlot]()
+- [Tidyverse]()
 
 
 
+## Analysis Lectures
 
+- [Binomial]()
+- [Inferences on a Mean]()
+- [Categorical ~ f( Categorical )]()
+- [Categorical ~ f( Continuous )]()
+- [Continuous ~ f( Categorical )]()
+- [Continuous ~ f( Continuous )]()
 
+## Spatial Lectures
 
+- [Points, Lines, & Polygons]()
+- [Rasters]()
+- [Cartography]()
+- [Census Data]()
+- [Raytracing]()
+
+## Genetic Lectures
+
+- [Resistance Models]()
