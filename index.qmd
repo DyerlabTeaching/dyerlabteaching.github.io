@@ -12,6 +12,7 @@ format:
     standalone: true
     self-contained: true
     full-width: true
+    toc: true
 ---
 
 
@@ -30,16 +31,33 @@ format:
 
 - [Welcome & Logistics](https://dyerlabteaching.github.io/Welcome/slides.html#/title-slide)  
 - [Github]()  
-- [Markdown & Quarto]()  
+- [Markdown]()  
+- [R Environment]()
+- [Xaringan Slides]()
 
 ## R Grammar Lectures
 
+- [Character Data]()
+- [Data Frames]()
 - [Data Types]()
 - [Data Containers]()
-- [GGPlot]()
+- [Dates]()
+- [Factor Data]()
+- [Numerical Data]()
 - [Tidyverse]()
 
+## Data Manipulation
 
+- [Functions]()
+- [Relational Data]()
+- [Data Manipulation - Old School]()
+- [Data Manipualtion - Tidyverse]()
+
+## Visualization
+
+- [Basic Visualization]()
+- [GGPlot]()
+- [Leaflet Maps]()
 
 ## Analysis Lectures
 
@@ -49,15 +67,23 @@ format:
 - [Categorical ~ f( Continuous )]()
 - [Continuous ~ f( Categorical )]()
 - [Continuous ~ f( Continuous )]()
+- [Network Models]()
+- [Ordination]()
+- [Resistance Models]()
+
 
 ## Spatial Lectures
 
-- [Points, Lines, & Polygons]()
-- [Rasters]()
 - [Cartography]()
 - [Census Data]()
+- [Habitat Analyses]()
+- [Points, Lines, & Polygons]()
+- [Rasters]()
 - [Raytracing]()
 
-## Genetic Lectures
+## Genetics
 
-- [Resistance Models]()
+- [Genetic Diversity]()
+- [Population Genetics Processes]()
+- [Spatial Genetic Structure]()
+- [Population Subdivision]()
