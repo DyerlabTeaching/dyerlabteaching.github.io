@@ -8,7 +8,10 @@ format:
 ---
 
 
-## Lectures
+## Fall 2022 Lectures
+
+
+- Welcome 
 
 
 
