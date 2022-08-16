@@ -1,17 +1,59 @@
 ---
 title: "Dyerlab Teaching"
-author: "Rodney J. Dyer, PhD"
+date: "25 August 2022"
+author: 
+- name: Rodney J. Dyer
+  url: https://dyerlab.org
+  affiliation: Center for Environmental Studies
+  affiliation_url: https://ces.vcu.edu
+  orcid_id: 0000-0003-4707-3453
 format: 
   html:
     standalone: true
     self-contained: true
+    full-width: true
 ---
 
 
-## Fall 2022 Lectures
+
+> These are the lectures for the ENVS 543 Environmental Data Literacy course I am teaching this semester.  Individual lecture components will be added as the term progresses and be reset with the lecture content for the Spring 2023 semester in Jaunary.
+
+## Lectures for Environmental Data Literacy
+
+The class consists of the following main sections.
+
+### Logistics
+
+- ENVS 543 Welcome & Logistics
+- Git & Github
+- Markdown 
+- Data Types 
+- Data Containers
+- Tidyverse
 
 
-- Welcome 
+### Univariate Data on One Variable
+
+- Graphics that DON'T suck  
+- Confidence on a Mean
+- Biniomial Inferences ]
+
+
+### Inferences on More than One Variable
+
+- Categorical ~ f(Categorical)  
+- Continuous ~ f(Categorical)  
+- Continuous ~ f(Continuous)  
+- Categorical ~ f(Continuous)  
+
+
+### Spatial Data
+
+- Points, Lines, & Polygons  
+- Raster Data   
+- Cartography  
+- Census Data  
+- Raytracing  
 
 
 
