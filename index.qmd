@@ -1,0 +1,16 @@
+---
+title: "Dyerlab Teaching"
+author: "Rodney J. Dyer, PhD"
+format: 
+  html:
+    standalone: true
+---
+
+
+## Lectures
+
+
+
+
+
+
