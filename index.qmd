@@ -22,69 +22,68 @@ format:
 ##  Syllabi
 
 - [ENVS 543: Environmental Data Literacy](https://github.com/dyerlabteaching/ENVS543)
-- [2 day Data Literacy Workshop]()
-- [Landscape Genetics]()
+- 2 day Data Literacy Workshop: 
+- Landscape Genetics: 
 
 
 ## Logistics Lectures
 
 - Welcome & Logistics: <a href="https://dyerlabteaching.github.io/Welcome/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Welcome"><img src="https://img.shields.io/badge/-repository-yellow"></a>  
-- [Github & GitHub Classroom](https://github.com/DyerlabTeaching/Github-Classroom)  
+- Github & GitHub Classroom: <a href="https://dyerlabteaching.github.io/Github-Classroom/slides.html#/title-slide"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/DyerlabTeaching/Github-Classroom"><img src="https://img.shields.io/badge/-repository-yellow"></a>
 - Markdown: <a href="https://dyerlabteaching.github.io/Markdown/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Markdown"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
-- [R Environment]()
-- [Markdown]()
-- [Quarto]()
-- [Xaringan Slides]()
+- R Environment
+- Quarto: <a href="https://dyerlabteaching.github.io/Quarto/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Quarto"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+- Xaringan Slides
 
 ## R Grammar Lectures
 
-- [Character Data]()
-- [Data Frames]()
-- [Data Types]()
-- [Data Containers]()
-- [Dates]()
-- [Factor Data]()
-- [Numerical Data]()
-- [Tidyverse]()
+- Character Data: 
+- Data Frames: 
+- Data Types: 
+- Data Containers: 
+- Dates: 
+- Factor Data: 
+- Numerical Data: 
+- Tidyverse: 
 
 ## Data Manipulation
 
-- [Functions]()
-- [Relational Data]()
-- [Data Manipulation - Old School]()
-- [Data Manipualtion - Tidyverse]()
+- Functions: 
+- Relational Data: 
+- Data Manipulation - Old School: 
+- Data Manipulation - Tidyverse: 
 
 ## Visualization
 
-- [Basic Visualization]()
-- [GGPlot]()
-- [Leaflet Maps]()
+- Basic Visualization: 
+- GGPlot: 
+- Leaflet Maps: 
 
 ## Analysis Lectures
 
-- [Binomial]()
-- [Inferences on a Mean]()
-- [Categorical ~ f( Categorical )]()
-- [Categorical ~ f( Continuous )]()
-- [Continuous ~ f( Categorical )]()
-- [Continuous ~ f( Continuous )]()
-- [Network Models]()
-- [Ordination]()
-- [Resistance Models]()
+- Binomial: 
+- Inferences on a Mean: 
+- Categorical ~ f( Categorical ): 
+- Categorical ~ f( Continuous ): 
+- Continuous ~ f( Categorical ): 
+- Continuous ~ f( Continuous ): 
+- Network Models: 
+- Ordination: 
+- Resistance Models: 
 
 
 ## Spatial Lectures
 
-- [Cartography]()
-- [Census Data]()
-- [Habitat Analyses]()
-- [Points, Lines, & Polygons]()
-- [Rasters]()
-- [Raytracing]()
+- Cartography: 
+- Census Data: 
+- Habitat Analyses: 
+- Points, Lines, & Polygons: 
+- Rasters: 
+- Raytracing: 
 
 ## Genetics
 
-- [Genetic Diversity]()
-- [Population Genetics Processes]()
-- [Spatial Genetic Structure]()
-- [Population Subdivision]()
+- Genetic Diversity: 
+- Population Genetics Processes: 
+- Spatial Genetic Structure: 
+- Population Subdivision: 
