@@ -31,7 +31,6 @@ format:
 - Welcome & Logistics: <a href="https://dyerlabteaching.github.io/Welcome/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Welcome"><img src="https://img.shields.io/badge/-repository-yellow"></a>  
 - Github & GitHub Classroom: <a href="https://dyerlabteaching.github.io/Github-Classroom/slides.html#/title-slide"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/DyerlabTeaching/Github-Classroom"><img src="https://img.shields.io/badge/-repository-yellow"></a>
 - Markdown: <a href="https://dyerlabteaching.github.io/Markdown/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Markdown"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
-- R Environment
 - Quarto: <a href="https://dyerlabteaching.github.io/Quarto/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Quarto"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
 - Xaringan Slides
 
