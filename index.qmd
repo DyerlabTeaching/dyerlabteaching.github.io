@@ -1,6 +1,5 @@
 ---
-title: "Dyerlab Teaching"
-date: "25 August 2022"
+title: "Dyerlab Teaching Resources"
 author: 
 - name: Rodney J. Dyer
   url: https://dyerlab.org
@@ -29,10 +28,12 @@ format:
 
 ## Logistics Lectures
 
-- [Welcome & Logistics](https://dyerlabteaching.github.io/Welcome/slides.html#/title-slide)  
-- [Github]()  
-- [Markdown]()  
+- Welcome & Logistics: <a href="https://dyerlabteaching.github.io/Welcome/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Welcome"><img src="https://img.shields.io/badge/-repository-yellow"></a>  
+- [Github & GitHub Classroom](https://github.com/DyerlabTeaching/Github-Classroom)  
+- Markdown: <a href="https://dyerlabteaching.github.io/Markdown/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Markdown"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
 - [R Environment]()
+- [Markdown]()
+- [Quarto]()
 - [Xaringan Slides]()
 
 ## R Grammar Lectures
