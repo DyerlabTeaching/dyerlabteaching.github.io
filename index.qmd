@@ -36,13 +36,9 @@ format:
 
 ## R Grammar Lectures
 
-- Character Data: 
-- Data Frames: 
-- Data Types: 
-- Data Containers: 
-- Dates: 
-- Factor Data: 
-- Numerical Data: 
+- Data Types: <a href="https://dyerlabteaching.github.io/basic-data-types/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/basic-data-types"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+- Data Containers: <a href="https://dyerlabteaching.github.io/Data-Containers/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Data-Containers"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+- Factor Data: <a href="https://dyerlabteaching.github.io/Factors/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Factors"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
 - Tidyverse: 
 
 ## Data Manipulation
