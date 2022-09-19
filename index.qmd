@@ -32,17 +32,16 @@ format:
 - Github & GitHub Classroom: <a href="https://dyerlabteaching.github.io/Github-Classroom/slides.html#/title-slide"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/DyerlabTeaching/Github-Classroom"><img src="https://img.shields.io/badge/-repository-yellow"></a>
 - Markdown: <a href="https://dyerlabteaching.github.io/Markdown/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Markdown"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
 - Quarto: <a href="https://dyerlabteaching.github.io/Quarto/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Quarto"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
-- Xaringan Slides
 
 ## R Grammar Lectures
 
 - Data Types: <a href="https://dyerlabteaching.github.io/basic-data-types/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/basic-data-types"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
 - Data Containers: <a href="https://dyerlabteaching.github.io/Data-Containers/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Data-Containers"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
 - Factor Data: <a href="https://dyerlabteaching.github.io/Factors/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Factors"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
-- Tidyverse: 
 
 ## Data Manipulation
 
+- Tidyverse: <a href="https://dyerlabteaching.github.io/Tidyverse/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/DyerlabTeaching/Tidyverse"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
 - Functions: 
 - Relational Data: 
 - Data Manipulation - Old School: 
