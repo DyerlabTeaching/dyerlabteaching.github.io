@@ -1,0 +1,83 @@
+---
+title: "Dyerlab Teaching Resources"
+author: 
+- name: Rodney J. Dyer
+  url: https://dyerlab.org
+  affiliation: Center for Environmental Studies
+  affiliation_url: https://ces.vcu.edu
+  orcid_id: 0000-0003-4707-3453
+format: 
+  html:
+    standalone: true
+    self-contained: true
+    full-width: true
+    toc: true
+---
+
+
+
+> This github account houses all of the repositories I have created for teaching resources.  Where possible, I have attempted to break apart the components of my instruction into the least common denominators.  These can individually serve as building-blocks of instruction for a wide range of coureses as well as sources of quick instruction for individuals needing to relearn specific components.
+
+
+##  Syllabi
+
+- [ENVS 543: Environmental Data Literacy](https://github.com/dyerlabteaching/ENVS543)
+- 2 day Data Literacy Workshop: 
+- Landscape Genetics: 
+
+
+## Logistics Lectures
+
+- Welcome & Logistics: <a href="https://dyerlabteaching.github.io/Welcome/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Welcome"><img src="https://img.shields.io/badge/-repository-yellow"></a>  
+- Github & GitHub Classroom: <a href="https://dyerlabteaching.github.io/Github-Classroom/slides.html#/title-slide"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/DyerlabTeaching/Github-Classroom"><img src="https://img.shields.io/badge/-repository-yellow"></a>
+- Markdown: <a href="https://dyerlabteaching.github.io/Markdown/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Markdown"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+- Quarto: <a href="https://dyerlabteaching.github.io/Quarto/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Quarto"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+
+## R Grammar Lectures
+
+- Data Types: <a href="https://dyerlabteaching.github.io/basic-data-types/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/basic-data-types"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+- Data Containers: <a href="https://dyerlabteaching.github.io/Data-Containers/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Data-Containers"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+- Factor Data: <a href="https://dyerlabteaching.github.io/Factors/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/dyerlabteaching/Factors"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+
+## Data Manipulation
+
+- Tidyverse: <a href="https://dyerlabteaching.github.io/Tidyverse/slides.html"><img src="https://img.shields.io/badge/-slides-informational"></a> <a href="https://github.com/DyerlabTeaching/Tidyverse"><img src="https://img.shields.io/badge/-repository-yellow"></a> 
+- Functions: 
+- Relational Data: 
+- Data Manipulation - Old School: 
+- Data Manipulation - Tidyverse: 
+
+## Visualization
+
+- Basic Visualization: 
+- GGPlot: 
+- Leaflet Maps: 
+
+## Analysis Lectures
+
+- Binomial: 
+- Inferences on a Mean: 
+- Categorical ~ f( Categorical ): 
+- Categorical ~ f( Continuous ): 
+- Continuous ~ f( Categorical ): 
+- Continuous ~ f( Continuous ): 
+- Network Models: 
+- Ordination: 
+- Resistance Models: 
+
+
+## Spatial Lectures
+
+- Cartography: 
+- Census Data: 
+- Habitat Analyses: 
+- Points, Lines, & Polygons: 
+- Rasters: 
+- Raytracing: 
+
+## Genetics
+
+- Genetic Diversity: 
+- Population Genetics Processes: 
+- Spatial Genetic Structure: 
+- Population Subdivision: 
