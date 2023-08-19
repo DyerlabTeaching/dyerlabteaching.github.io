@@ -1,9 +1,8 @@
 ---
 title: "Dyerlab Teaching"
 format: revealjs
-
-
 ---
+# Dyerlab Teaching
 
 ## &nbsp; {background-color="white" background-image="dyerlab_logo.png" background-size="cover" background-position="center"}
 
